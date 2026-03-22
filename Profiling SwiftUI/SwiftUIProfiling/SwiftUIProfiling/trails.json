@@ -1,0 +1,1002 @@
+[
+    {
+        "name": "Bear Lake Loop",
+        "park": "Rocky Mountain National Park",
+        "state": "Colorado",
+        "difficulty": "Easy",
+        "distance_miles": 0.6,
+        "elevation_gain_feet": 45,
+        "trailhead": "Bear Lake Trailhead",
+        "notes": "Popular lakeside loop with mountain views."
+    },
+    {
+        "name": "Emerald Lake Trail",
+        "park": "Rocky Mountain National Park",
+        "state": "Colorado",
+        "difficulty": "Moderate",
+        "distance_miles": 3.2,
+        "elevation_gain_feet": 698,
+        "trailhead": "Bear Lake Trailhead",
+        "notes": "Passes Nymph and Dream lakes en route to Emerald Lake."
+    },
+    {
+        "name": "Sky Pond via Glacier Gorge",
+        "park": "Rocky Mountain National Park",
+        "state": "Colorado",
+        "difficulty": "Hard",
+        "distance_miles": 9.0,
+        "elevation_gain_feet": 1780,
+        "trailhead": "Glacier Gorge Trailhead",
+        "notes": "Includes Alberta Falls and Lake of Glass before Sky Pond."
+    },
+    {
+        "name": "Chasm Lake Trail",
+        "park": "Rocky Mountain National Park",
+        "state": "Colorado",
+        "difficulty": "Hard",
+        "distance_miles": 8.4,
+        "elevation_gain_feet": 2550,
+        "trailhead": "Longs Peak Trailhead",
+        "notes": "High-alpine lake beneath Longs Peak's east face."
+    },
+    {
+        "name": "Ouzel Falls Trail",
+        "park": "Rocky Mountain National Park",
+        "state": "Colorado",
+        "difficulty": "Moderate",
+        "distance_miles": 5.4,
+        "elevation_gain_feet": 870,
+        "trailhead": "Wild Basin Trailhead",
+        "notes": "Scenic creekside route with multiple cascades."
+    },
+    {
+        "name": "Nymph Lake Trail",
+        "park": "Rocky Mountain National Park",
+        "state": "Colorado",
+        "difficulty": "Easy",
+        "distance_miles": 1.0,
+        "elevation_gain_feet": 230,
+        "trailhead": "Bear Lake Trailhead",
+        "notes": "Short hike to a lily-pad lake with reflective views."
+    },
+    {
+        "name": "Dream Lake Trail",
+        "park": "Rocky Mountain National Park",
+        "state": "Colorado",
+        "difficulty": "Moderate",
+        "distance_miles": 2.0,
+        "elevation_gain_feet": 450,
+        "trailhead": "Bear Lake Trailhead",
+        "notes": "Classic alpine lake framed by Hallett Peak."
+    },
+    {
+        "name": "Alberta Falls Trail",
+        "park": "Rocky Mountain National Park",
+        "state": "Colorado",
+        "difficulty": "Moderate",
+        "distance_miles": 1.6,
+        "elevation_gain_feet": 200,
+        "trailhead": "Glacier Gorge Trailhead",
+        "notes": "Fast access to a powerful waterfall and granite gorge."
+    },
+    {
+        "name": "The Loch Trail",
+        "park": "Rocky Mountain National Park",
+        "state": "Colorado",
+        "difficulty": "Moderate",
+        "distance_miles": 5.4,
+        "elevation_gain_feet": 1060,
+        "trailhead": "Glacier Gorge Trailhead",
+        "notes": "Leads to a scenic alpine lake beneath rugged cliffs."
+    },
+    {
+        "name": "Mills Lake Trail",
+        "park": "Rocky Mountain National Park",
+        "state": "Colorado",
+        "difficulty": "Moderate",
+        "distance_miles": 5.6,
+        "elevation_gain_feet": 780,
+        "trailhead": "Glacier Gorge Trailhead",
+        "notes": "Popular destination with wide-open views and clear water."
+    },
+    {
+        "name": "Cub Lake Trail",
+        "park": "Rocky Mountain National Park",
+        "state": "Colorado",
+        "difficulty": "Moderate",
+        "distance_miles": 4.8,
+        "elevation_gain_feet": 540,
+        "trailhead": "Moraine Park Trailhead",
+        "notes": "Meadows and wildlife sightings on the way to Cub Lake."
+    },
+    {
+        "name": "Sprague Lake Loop",
+        "park": "Rocky Mountain National Park",
+        "state": "Colorado",
+        "difficulty": "Easy",
+        "distance_miles": 0.8,
+        "elevation_gain_feet": 50,
+        "trailhead": "Sprague Lake Trailhead",
+        "notes": "Accessible loop with serene water and mountain panoramas."
+    },
+    {
+        "name": "Lily Lake Loop",
+        "park": "Rocky Mountain National Park",
+        "state": "Colorado",
+        "difficulty": "Easy",
+        "distance_miles": 0.8,
+        "elevation_gain_feet": 60,
+        "trailhead": "Lily Lake Trailhead",
+        "notes": "Easy stroll with frequent wildlife and wildflower views."
+    },
+    {
+        "name": "Emerald Lake via Dream Lake",
+        "park": "Rocky Mountain National Park",
+        "state": "Colorado",
+        "difficulty": "Moderate",
+        "distance_miles": 3.2,
+        "elevation_gain_feet": 698,
+        "trailhead": "Bear Lake Trailhead",
+        "notes": "Most popular line to Emerald with steady switchbacks."
+    },
+    {
+        "name": "Fern Lake Trail",
+        "park": "Rocky Mountain National Park",
+        "state": "Colorado",
+        "difficulty": "Moderate",
+        "distance_miles": 7.4,
+        "elevation_gain_feet": 1250,
+        "trailhead": "Fern Lake Trailhead",
+        "notes": "Forest and creekside hike to Fern Lake."
+    },
+    {
+        "name": "Bierstadt Lake Trail",
+        "park": "Rocky Mountain National Park",
+        "state": "Colorado",
+        "difficulty": "Moderate",
+        "distance_miles": 3.2,
+        "elevation_gain_feet": 567,
+        "trailhead": "Bear Lake Trailhead",
+        "notes": "Quiet lake with a classic aspen and pine forest approach."
+    },
+    {
+        "name": "Flattop Mountain Trail",
+        "park": "Rocky Mountain National Park",
+        "state": "Colorado",
+        "difficulty": "Hard",
+        "distance_miles": 8.8,
+        "elevation_gain_feet": 2840,
+        "trailhead": "Bear Lake Trailhead",
+        "notes": "Steep climb to wide-open tundra and panoramic views."
+    },
+    {
+        "name": "Deer Mountain Trail",
+        "park": "Rocky Mountain National Park",
+        "state": "Colorado",
+        "difficulty": "Moderate",
+        "distance_miles": 6.2,
+        "elevation_gain_feet": 1400,
+        "trailhead": "Deer Ridge Junction",
+        "notes": "Great sunrise hike with views over Estes Park."
+    },
+    {
+        "name": "Ute Trail to Tombstone Ridge",
+        "park": "Rocky Mountain National Park",
+        "state": "Colorado",
+        "difficulty": "Hard",
+        "distance_miles": 12.0,
+        "elevation_gain_feet": 2000,
+        "trailhead": "Ute Trailhead",
+        "notes": "High-elevation route along Trail Ridge Road."
+    },
+    {
+        "name": "Bluebird Lake Trail",
+        "park": "Rocky Mountain National Park",
+        "state": "Colorado",
+        "difficulty": "Hard",
+        "distance_miles": 12.6,
+        "elevation_gain_feet": 2300,
+        "trailhead": "Wild Basin Trailhead",
+        "notes": "Remote alpine lake with big views and quieter trails."
+    },
+    {
+        "name": "Twin Sisters Peak Trail",
+        "park": "Rocky Mountain National Park",
+        "state": "Colorado",
+        "difficulty": "Hard",
+        "distance_miles": 7.5,
+        "elevation_gain_feet": 1800,
+        "trailhead": "Twin Sisters Trailhead",
+        "notes": "Steady climb to a rocky summit overlooking Estes Park."
+    },
+    {
+        "name": "Lawn Lake Trail",
+        "park": "Rocky Mountain National Park",
+        "state": "Colorado",
+        "difficulty": "Hard",
+        "distance_miles": 12.6,
+        "elevation_gain_feet": 2450,
+        "trailhead": "Lawn Lake Trailhead",
+        "notes": "Long forested hike to a high-elevation lake."
+    },
+    {
+        "name": "Green Mountain Trail",
+        "park": "Rocky Mountain National Park",
+        "state": "Colorado",
+        "difficulty": "Hard",
+        "distance_miles": 9.2,
+        "elevation_gain_feet": 2500,
+        "trailhead": "Green Mountain Trailhead",
+        "notes": "Less crowded climb with expansive summit views."
+    },
+    {
+        "name": "Bear Lake Loop Variant 1",
+        "park": "Rocky Mountain National Park",
+        "state": "Colorado",
+        "difficulty": "Easy",
+        "distance_miles": 0.9,
+        "elevation_gain_feet": 70,
+        "trailhead": "Bear Lake Trailhead",
+        "notes": "Popular lakeside loop with mountain views. Alternate route."
+    },
+    {
+        "name": "Emerald Lake Trail Variant 2",
+        "park": "Rocky Mountain National Park",
+        "state": "Colorado",
+        "difficulty": "Moderate",
+        "distance_miles": 3.6,
+        "elevation_gain_feet": 748,
+        "trailhead": "Bear Lake Trailhead",
+        "notes": "Passes Nymph and Dream lakes en route to Emerald Lake. Alternate route."
+    },
+    {
+        "name": "Sky Pond via Glacier Gorge Variant 3",
+        "park": "Rocky Mountain National Park",
+        "state": "Colorado",
+        "difficulty": "Hard",
+        "distance_miles": 9.5,
+        "elevation_gain_feet": 1855,
+        "trailhead": "Glacier Gorge Trailhead",
+        "notes": "Includes Alberta Falls and Lake of Glass before Sky Pond. Alternate route."
+    },
+    {
+        "name": "Chasm Lake Trail Variant 4",
+        "park": "Rocky Mountain National Park",
+        "state": "Colorado",
+        "difficulty": "Hard",
+        "distance_miles": 9.0,
+        "elevation_gain_feet": 2650,
+        "trailhead": "Longs Peak Trailhead",
+        "notes": "High-alpine lake beneath Longs Peak's east face. Alternate route."
+    },
+    {
+        "name": "Ouzel Falls Trail Variant 5",
+        "park": "Rocky Mountain National Park",
+        "state": "Colorado",
+        "difficulty": "Moderate",
+        "distance_miles": 5.6,
+        "elevation_gain_feet": 995,
+        "trailhead": "Wild Basin Trailhead",
+        "notes": "Scenic creekside route with multiple cascades. Alternate route."
+    },
+    {
+        "name": "Nymph Lake Trail Variant 6",
+        "park": "Rocky Mountain National Park",
+        "state": "Colorado",
+        "difficulty": "Easy",
+        "distance_miles": 1.3,
+        "elevation_gain_feet": 380,
+        "trailhead": "Bear Lake Trailhead",
+        "notes": "Short hike to a lily-pad lake with reflective views. Alternate route."
+    },
+    {
+        "name": "Dream Lake Trail Variant 7",
+        "park": "Rocky Mountain National Park",
+        "state": "Colorado",
+        "difficulty": "Moderate",
+        "distance_miles": 2.4,
+        "elevation_gain_feet": 450,
+        "trailhead": "Bear Lake Trailhead",
+        "notes": "Classic alpine lake framed by Hallett Peak. Alternate route."
+    },
+    {
+        "name": "Alberta Falls Trail Variant 8",
+        "park": "Rocky Mountain National Park",
+        "state": "Colorado",
+        "difficulty": "Moderate",
+        "distance_miles": 2.1,
+        "elevation_gain_feet": 225,
+        "trailhead": "Glacier Gorge Trailhead",
+        "notes": "Fast access to a powerful waterfall and granite gorge. Alternate route."
+    },
+    {
+        "name": "The Loch Trail Variant 9",
+        "park": "Rocky Mountain National Park",
+        "state": "Colorado",
+        "difficulty": "Moderate",
+        "distance_miles": 6.0,
+        "elevation_gain_feet": 1110,
+        "trailhead": "Glacier Gorge Trailhead",
+        "notes": "Leads to a scenic alpine lake beneath rugged cliffs. Alternate route."
+    },
+    {
+        "name": "Mills Lake Trail Variant 10",
+        "park": "Rocky Mountain National Park",
+        "state": "Colorado",
+        "difficulty": "Moderate",
+        "distance_miles": 5.8,
+        "elevation_gain_feet": 855,
+        "trailhead": "Glacier Gorge Trailhead",
+        "notes": "Popular destination with wide-open views and clear water. Alternate route."
+    },
+    {
+        "name": "Cub Lake Trail Variant 11",
+        "park": "Rocky Mountain National Park",
+        "state": "Colorado",
+        "difficulty": "Moderate",
+        "distance_miles": 5.1,
+        "elevation_gain_feet": 640,
+        "trailhead": "Moraine Park Trailhead",
+        "notes": "Meadows and wildlife sightings on the way to Cub Lake. Alternate route."
+    },
+    {
+        "name": "Sprague Lake Loop Variant 12",
+        "park": "Rocky Mountain National Park",
+        "state": "Colorado",
+        "difficulty": "Easy",
+        "distance_miles": 1.2,
+        "elevation_gain_feet": 175,
+        "trailhead": "Sprague Lake Trailhead",
+        "notes": "Accessible loop with serene water and mountain panoramas. Alternate route."
+    },
+    {
+        "name": "Lily Lake Loop Variant 13",
+        "park": "Rocky Mountain National Park",
+        "state": "Colorado",
+        "difficulty": "Easy",
+        "distance_miles": 1.3,
+        "elevation_gain_feet": 210,
+        "trailhead": "Lily Lake Trailhead",
+        "notes": "Easy stroll with frequent wildlife and wildflower views. Alternate route."
+    },
+    {
+        "name": "Emerald Lake via Dream Lake Variant 14",
+        "park": "Rocky Mountain National Park",
+        "state": "Colorado",
+        "difficulty": "Moderate",
+        "distance_miles": 3.8,
+        "elevation_gain_feet": 698,
+        "trailhead": "Bear Lake Trailhead",
+        "notes": "Most popular line to Emerald with steady switchbacks. Alternate route."
+    },
+    {
+        "name": "Fern Lake Trail Variant 15",
+        "park": "Rocky Mountain National Park",
+        "state": "Colorado",
+        "difficulty": "Moderate",
+        "distance_miles": 7.6,
+        "elevation_gain_feet": 1275,
+        "trailhead": "Fern Lake Trailhead",
+        "notes": "Forest and creekside hike to Fern Lake. Alternate route."
+    },
+    {
+        "name": "Bierstadt Lake Trail Variant 16",
+        "park": "Rocky Mountain National Park",
+        "state": "Colorado",
+        "difficulty": "Moderate",
+        "distance_miles": 3.5,
+        "elevation_gain_feet": 617,
+        "trailhead": "Bear Lake Trailhead",
+        "notes": "Quiet lake with a classic aspen and pine forest approach. Alternate route."
+    },
+    {
+        "name": "Flattop Mountain Trail Variant 17",
+        "park": "Rocky Mountain National Park",
+        "state": "Colorado",
+        "difficulty": "Hard",
+        "distance_miles": 9.2,
+        "elevation_gain_feet": 2915,
+        "trailhead": "Bear Lake Trailhead",
+        "notes": "Steep climb to wide-open tundra and panoramic views. Alternate route."
+    },
+    {
+        "name": "Deer Mountain Trail Variant 18",
+        "park": "Rocky Mountain National Park",
+        "state": "Colorado",
+        "difficulty": "Moderate",
+        "distance_miles": 6.7,
+        "elevation_gain_feet": 1500,
+        "trailhead": "Deer Ridge Junction",
+        "notes": "Great sunrise hike with views over Estes Park. Alternate route."
+    },
+    {
+        "name": "Ute Trail to Tombstone Ridge Variant 19",
+        "park": "Rocky Mountain National Park",
+        "state": "Colorado",
+        "difficulty": "Hard",
+        "distance_miles": 12.6,
+        "elevation_gain_feet": 2125,
+        "trailhead": "Ute Trailhead",
+        "notes": "High-elevation route along Trail Ridge Road. Alternate route."
+    },
+    {
+        "name": "Bluebird Lake Trail Variant 20",
+        "park": "Rocky Mountain National Park",
+        "state": "Colorado",
+        "difficulty": "Hard",
+        "distance_miles": 12.8,
+        "elevation_gain_feet": 2450,
+        "trailhead": "Wild Basin Trailhead",
+        "notes": "Remote alpine lake with big views and quieter trails. Alternate route."
+    },
+    {
+        "name": "Twin Sisters Peak Trail Variant 21",
+        "park": "Rocky Mountain National Park",
+        "state": "Colorado",
+        "difficulty": "Hard",
+        "distance_miles": 7.8,
+        "elevation_gain_feet": 1800,
+        "trailhead": "Twin Sisters Trailhead",
+        "notes": "Steady climb to a rocky summit overlooking Estes Park. Alternate route."
+    },
+    {
+        "name": "Lawn Lake Trail Variant 22",
+        "park": "Rocky Mountain National Park",
+        "state": "Colorado",
+        "difficulty": "Hard",
+        "distance_miles": 13.0,
+        "elevation_gain_feet": 2475,
+        "trailhead": "Lawn Lake Trailhead",
+        "notes": "Long forested hike to a high-elevation lake. Alternate route."
+    },
+    {
+        "name": "Green Mountain Trail Variant 23",
+        "park": "Rocky Mountain National Park",
+        "state": "Colorado",
+        "difficulty": "Hard",
+        "distance_miles": 9.7,
+        "elevation_gain_feet": 2550,
+        "trailhead": "Green Mountain Trailhead",
+        "notes": "Less crowded climb with expansive summit views. Alternate route."
+    },
+    {
+        "name": "Bear Lake Loop Variant 24",
+        "park": "Rocky Mountain National Park",
+        "state": "Colorado",
+        "difficulty": "Easy",
+        "distance_miles": 1.2,
+        "elevation_gain_feet": 120,
+        "trailhead": "Bear Lake Trailhead",
+        "notes": "Popular lakeside loop with mountain views. Alternate route."
+    },
+    {
+        "name": "Emerald Lake Trail Variant 25",
+        "park": "Rocky Mountain National Park",
+        "state": "Colorado",
+        "difficulty": "Moderate",
+        "distance_miles": 3.4,
+        "elevation_gain_feet": 798,
+        "trailhead": "Bear Lake Trailhead",
+        "notes": "Passes Nymph and Dream lakes en route to Emerald Lake. Alternate route."
+    },
+    {
+        "name": "Sky Pond via Glacier Gorge Variant 26",
+        "park": "Rocky Mountain National Park",
+        "state": "Colorado",
+        "difficulty": "Hard",
+        "distance_miles": 9.3,
+        "elevation_gain_feet": 1905,
+        "trailhead": "Glacier Gorge Trailhead",
+        "notes": "Includes Alberta Falls and Lake of Glass before Sky Pond. Alternate route."
+    },
+    {
+        "name": "Chasm Lake Trail Variant 27",
+        "park": "Rocky Mountain National Park",
+        "state": "Colorado",
+        "difficulty": "Hard",
+        "distance_miles": 8.8,
+        "elevation_gain_feet": 2700,
+        "trailhead": "Longs Peak Trailhead",
+        "notes": "High-alpine lake beneath Longs Peak's east face. Alternate route."
+    },
+    {
+        "name": "Ouzel Falls Trail Variant 28",
+        "park": "Rocky Mountain National Park",
+        "state": "Colorado",
+        "difficulty": "Moderate",
+        "distance_miles": 5.9,
+        "elevation_gain_feet": 870,
+        "trailhead": "Wild Basin Trailhead",
+        "notes": "Scenic creekside route with multiple cascades. Alternate route."
+    },
+    {
+        "name": "Nymph Lake Trail Variant 29",
+        "park": "Rocky Mountain National Park",
+        "state": "Colorado",
+        "difficulty": "Easy",
+        "distance_miles": 1.6,
+        "elevation_gain_feet": 255,
+        "trailhead": "Bear Lake Trailhead",
+        "notes": "Short hike to a lily-pad lake with reflective views. Alternate route."
+    },
+    {
+        "name": "Dream Lake Trail Variant 30",
+        "park": "Rocky Mountain National Park",
+        "state": "Colorado",
+        "difficulty": "Moderate",
+        "distance_miles": 2.2,
+        "elevation_gain_feet": 500,
+        "trailhead": "Bear Lake Trailhead",
+        "notes": "Classic alpine lake framed by Hallett Peak. Alternate route."
+    },
+    {
+        "name": "Alberta Falls Trail Variant 31",
+        "park": "Rocky Mountain National Park",
+        "state": "Colorado",
+        "difficulty": "Moderate",
+        "distance_miles": 1.9,
+        "elevation_gain_feet": 275,
+        "trailhead": "Glacier Gorge Trailhead",
+        "notes": "Fast access to a powerful waterfall and granite gorge. Alternate route."
+    },
+    {
+        "name": "The Loch Trail Variant 32",
+        "park": "Rocky Mountain National Park",
+        "state": "Colorado",
+        "difficulty": "Moderate",
+        "distance_miles": 5.8,
+        "elevation_gain_feet": 1160,
+        "trailhead": "Glacier Gorge Trailhead",
+        "notes": "Leads to a scenic alpine lake beneath rugged cliffs. Alternate route."
+    },
+    {
+        "name": "Mills Lake Trail Variant 33",
+        "park": "Rocky Mountain National Park",
+        "state": "Colorado",
+        "difficulty": "Moderate",
+        "distance_miles": 6.1,
+        "elevation_gain_feet": 905,
+        "trailhead": "Glacier Gorge Trailhead",
+        "notes": "Popular destination with wide-open views and clear water. Alternate route."
+    },
+    {
+        "name": "Cub Lake Trail Variant 34",
+        "park": "Rocky Mountain National Park",
+        "state": "Colorado",
+        "difficulty": "Moderate",
+        "distance_miles": 5.4,
+        "elevation_gain_feet": 690,
+        "trailhead": "Moraine Park Trailhead",
+        "notes": "Meadows and wildlife sightings on the way to Cub Lake. Alternate route."
+    },
+    {
+        "name": "Sprague Lake Loop Variant 35",
+        "park": "Rocky Mountain National Park",
+        "state": "Colorado",
+        "difficulty": "Easy",
+        "distance_miles": 1.0,
+        "elevation_gain_feet": 50,
+        "trailhead": "Sprague Lake Trailhead",
+        "notes": "Accessible loop with serene water and mountain panoramas. Alternate route."
+    },
+    {
+        "name": "Lily Lake Loop Variant 36",
+        "park": "Rocky Mountain National Park",
+        "state": "Colorado",
+        "difficulty": "Easy",
+        "distance_miles": 1.1,
+        "elevation_gain_feet": 85,
+        "trailhead": "Lily Lake Trailhead",
+        "notes": "Easy stroll with frequent wildlife and wildflower views. Alternate route."
+    },
+    {
+        "name": "Emerald Lake via Dream Lake Variant 37",
+        "park": "Rocky Mountain National Park",
+        "state": "Colorado",
+        "difficulty": "Moderate",
+        "distance_miles": 3.6,
+        "elevation_gain_feet": 748,
+        "trailhead": "Bear Lake Trailhead",
+        "notes": "Most popular line to Emerald with steady switchbacks. Alternate route."
+    },
+    {
+        "name": "Fern Lake Trail Variant 38",
+        "park": "Rocky Mountain National Park",
+        "state": "Colorado",
+        "difficulty": "Moderate",
+        "distance_miles": 7.9,
+        "elevation_gain_feet": 1325,
+        "trailhead": "Fern Lake Trailhead",
+        "notes": "Forest and creekside hike to Fern Lake. Alternate route."
+    },
+    {
+        "name": "Bierstadt Lake Trail Variant 39",
+        "park": "Rocky Mountain National Park",
+        "state": "Colorado",
+        "difficulty": "Moderate",
+        "distance_miles": 3.8,
+        "elevation_gain_feet": 667,
+        "trailhead": "Bear Lake Trailhead",
+        "notes": "Quiet lake with a classic aspen and pine forest approach. Alternate route."
+    },
+    {
+        "name": "Flattop Mountain Trail Variant 40",
+        "park": "Rocky Mountain National Park",
+        "state": "Colorado",
+        "difficulty": "Hard",
+        "distance_miles": 9.0,
+        "elevation_gain_feet": 2965,
+        "trailhead": "Bear Lake Trailhead",
+        "notes": "Steep climb to wide-open tundra and panoramic views. Alternate route."
+    },
+    {
+        "name": "Deer Mountain Trail Variant 41",
+        "park": "Rocky Mountain National Park",
+        "state": "Colorado",
+        "difficulty": "Moderate",
+        "distance_miles": 6.5,
+        "elevation_gain_feet": 1550,
+        "trailhead": "Deer Ridge Junction",
+        "notes": "Great sunrise hike with views over Estes Park. Alternate route."
+    },
+    {
+        "name": "Ute Trail to Tombstone Ridge Variant 42",
+        "park": "Rocky Mountain National Park",
+        "state": "Colorado",
+        "difficulty": "Hard",
+        "distance_miles": 12.4,
+        "elevation_gain_feet": 2000,
+        "trailhead": "Ute Trailhead",
+        "notes": "High-elevation route along Trail Ridge Road. Alternate route."
+    },
+    {
+        "name": "Bluebird Lake Trail Variant 43",
+        "park": "Rocky Mountain National Park",
+        "state": "Colorado",
+        "difficulty": "Hard",
+        "distance_miles": 13.1,
+        "elevation_gain_feet": 2325,
+        "trailhead": "Wild Basin Trailhead",
+        "notes": "Remote alpine lake with big views and quieter trails. Alternate route."
+    },
+    {
+        "name": "Twin Sisters Peak Trail Variant 44",
+        "park": "Rocky Mountain National Park",
+        "state": "Colorado",
+        "difficulty": "Hard",
+        "distance_miles": 8.1,
+        "elevation_gain_feet": 1850,
+        "trailhead": "Twin Sisters Trailhead",
+        "notes": "Steady climb to a rocky summit overlooking Estes Park. Alternate route."
+    },
+    {
+        "name": "Lawn Lake Trail Variant 45",
+        "park": "Rocky Mountain National Park",
+        "state": "Colorado",
+        "difficulty": "Hard",
+        "distance_miles": 12.8,
+        "elevation_gain_feet": 2525,
+        "trailhead": "Lawn Lake Trailhead",
+        "notes": "Long forested hike to a high-elevation lake. Alternate route."
+    },
+    {
+        "name": "Green Mountain Trail Variant 46",
+        "park": "Rocky Mountain National Park",
+        "state": "Colorado",
+        "difficulty": "Hard",
+        "distance_miles": 9.5,
+        "elevation_gain_feet": 2600,
+        "trailhead": "Green Mountain Trailhead",
+        "notes": "Less crowded climb with expansive summit views. Alternate route."
+    },
+    {
+        "name": "Bear Lake Loop Variant 47",
+        "park": "Rocky Mountain National Park",
+        "state": "Colorado",
+        "difficulty": "Easy",
+        "distance_miles": 1.0,
+        "elevation_gain_feet": 170,
+        "trailhead": "Bear Lake Trailhead",
+        "notes": "Popular lakeside loop with mountain views. Alternate route."
+    },
+    {
+        "name": "Emerald Lake Trail Variant 48",
+        "park": "Rocky Mountain National Park",
+        "state": "Colorado",
+        "difficulty": "Moderate",
+        "distance_miles": 3.7,
+        "elevation_gain_feet": 848,
+        "trailhead": "Bear Lake Trailhead",
+        "notes": "Passes Nymph and Dream lakes en route to Emerald Lake. Alternate route."
+    },
+    {
+        "name": "Sky Pond via Glacier Gorge Variant 49",
+        "park": "Rocky Mountain National Park",
+        "state": "Colorado",
+        "difficulty": "Hard",
+        "distance_miles": 9.6,
+        "elevation_gain_feet": 1780,
+        "trailhead": "Glacier Gorge Trailhead",
+        "notes": "Includes Alberta Falls and Lake of Glass before Sky Pond. Alternate route."
+    },
+    {
+        "name": "Chasm Lake Trail Variant 50",
+        "park": "Rocky Mountain National Park",
+        "state": "Colorado",
+        "difficulty": "Hard",
+        "distance_miles": 8.6,
+        "elevation_gain_feet": 2575,
+        "trailhead": "Longs Peak Trailhead",
+        "notes": "High-alpine lake beneath Longs Peak's east face. Alternate route."
+    },
+    {
+        "name": "Ouzel Falls Trail Variant 51",
+        "park": "Rocky Mountain National Park",
+        "state": "Colorado",
+        "difficulty": "Moderate",
+        "distance_miles": 5.7,
+        "elevation_gain_feet": 920,
+        "trailhead": "Wild Basin Trailhead",
+        "notes": "Scenic creekside route with multiple cascades. Alternate route."
+    },
+    {
+        "name": "Nymph Lake Trail Variant 52",
+        "park": "Rocky Mountain National Park",
+        "state": "Colorado",
+        "difficulty": "Easy",
+        "distance_miles": 1.4,
+        "elevation_gain_feet": 305,
+        "trailhead": "Bear Lake Trailhead",
+        "notes": "Short hike to a lily-pad lake with reflective views. Alternate route."
+    },
+    {
+        "name": "Dream Lake Trail Variant 53",
+        "park": "Rocky Mountain National Park",
+        "state": "Colorado",
+        "difficulty": "Moderate",
+        "distance_miles": 2.5,
+        "elevation_gain_feet": 550,
+        "trailhead": "Bear Lake Trailhead",
+        "notes": "Classic alpine lake framed by Hallett Peak. Alternate route."
+    },
+    {
+        "name": "Alberta Falls Trail Variant 54",
+        "park": "Rocky Mountain National Park",
+        "state": "Colorado",
+        "difficulty": "Moderate",
+        "distance_miles": 2.2,
+        "elevation_gain_feet": 325,
+        "trailhead": "Glacier Gorge Trailhead",
+        "notes": "Fast access to a powerful waterfall and granite gorge. Alternate route."
+    },
+    {
+        "name": "The Loch Trail Variant 55",
+        "park": "Rocky Mountain National Park",
+        "state": "Colorado",
+        "difficulty": "Moderate",
+        "distance_miles": 5.6,
+        "elevation_gain_feet": 1210,
+        "trailhead": "Glacier Gorge Trailhead",
+        "notes": "Leads to a scenic alpine lake beneath rugged cliffs. Alternate route."
+    },
+    {
+        "name": "Mills Lake Trail Variant 56",
+        "park": "Rocky Mountain National Park",
+        "state": "Colorado",
+        "difficulty": "Moderate",
+        "distance_miles": 5.9,
+        "elevation_gain_feet": 780,
+        "trailhead": "Glacier Gorge Trailhead",
+        "notes": "Popular destination with wide-open views and clear water. Alternate route."
+    },
+    {
+        "name": "Cub Lake Trail Variant 57",
+        "park": "Rocky Mountain National Park",
+        "state": "Colorado",
+        "difficulty": "Moderate",
+        "distance_miles": 5.2,
+        "elevation_gain_feet": 565,
+        "trailhead": "Moraine Park Trailhead",
+        "notes": "Meadows and wildlife sightings on the way to Cub Lake. Alternate route."
+    },
+    {
+        "name": "Sprague Lake Loop Variant 58",
+        "park": "Rocky Mountain National Park",
+        "state": "Colorado",
+        "difficulty": "Easy",
+        "distance_miles": 1.3,
+        "elevation_gain_feet": 100,
+        "trailhead": "Sprague Lake Trailhead",
+        "notes": "Accessible loop with serene water and mountain panoramas. Alternate route."
+    },
+    {
+        "name": "Lily Lake Loop Variant 59",
+        "park": "Rocky Mountain National Park",
+        "state": "Colorado",
+        "difficulty": "Easy",
+        "distance_miles": 1.4,
+        "elevation_gain_feet": 135,
+        "trailhead": "Lily Lake Trailhead",
+        "notes": "Easy stroll with frequent wildlife and wildflower views. Alternate route."
+    },
+    {
+        "name": "Emerald Lake via Dream Lake Variant 60",
+        "park": "Rocky Mountain National Park",
+        "state": "Colorado",
+        "difficulty": "Moderate",
+        "distance_miles": 3.4,
+        "elevation_gain_feet": 798,
+        "trailhead": "Bear Lake Trailhead",
+        "notes": "Most popular line to Emerald with steady switchbacks. Alternate route."
+    },
+    {
+        "name": "Fern Lake Trail Variant 61",
+        "park": "Rocky Mountain National Park",
+        "state": "Colorado",
+        "difficulty": "Moderate",
+        "distance_miles": 7.7,
+        "elevation_gain_feet": 1375,
+        "trailhead": "Fern Lake Trailhead",
+        "notes": "Forest and creekside hike to Fern Lake. Alternate route."
+    },
+    {
+        "name": "Bierstadt Lake Trail Variant 62",
+        "park": "Rocky Mountain National Park",
+        "state": "Colorado",
+        "difficulty": "Moderate",
+        "distance_miles": 3.6,
+        "elevation_gain_feet": 717,
+        "trailhead": "Bear Lake Trailhead",
+        "notes": "Quiet lake with a classic aspen and pine forest approach. Alternate route."
+    },
+    {
+        "name": "Flattop Mountain Trail Variant 63",
+        "park": "Rocky Mountain National Park",
+        "state": "Colorado",
+        "difficulty": "Hard",
+        "distance_miles": 9.3,
+        "elevation_gain_feet": 2840,
+        "trailhead": "Bear Lake Trailhead",
+        "notes": "Steep climb to wide-open tundra and panoramic views. Alternate route."
+    },
+    {
+        "name": "Deer Mountain Trail Variant 64",
+        "park": "Rocky Mountain National Park",
+        "state": "Colorado",
+        "difficulty": "Moderate",
+        "distance_miles": 6.8,
+        "elevation_gain_feet": 1425,
+        "trailhead": "Deer Ridge Junction",
+        "notes": "Great sunrise hike with views over Estes Park. Alternate route."
+    },
+    {
+        "name": "Ute Trail to Tombstone Ridge Variant 65",
+        "park": "Rocky Mountain National Park",
+        "state": "Colorado",
+        "difficulty": "Hard",
+        "distance_miles": 12.2,
+        "elevation_gain_feet": 2050,
+        "trailhead": "Ute Trailhead",
+        "notes": "High-elevation route along Trail Ridge Road. Alternate route."
+    },
+    {
+        "name": "Bluebird Lake Trail Variant 66",
+        "park": "Rocky Mountain National Park",
+        "state": "Colorado",
+        "difficulty": "Hard",
+        "distance_miles": 12.9,
+        "elevation_gain_feet": 2375,
+        "trailhead": "Wild Basin Trailhead",
+        "notes": "Remote alpine lake with big views and quieter trails. Alternate route."
+    },
+    {
+        "name": "Twin Sisters Peak Trail Variant 67",
+        "park": "Rocky Mountain National Park",
+        "state": "Colorado",
+        "difficulty": "Hard",
+        "distance_miles": 7.9,
+        "elevation_gain_feet": 1900,
+        "trailhead": "Twin Sisters Trailhead",
+        "notes": "Steady climb to a rocky summit overlooking Estes Park. Alternate route."
+    },
+    {
+        "name": "Lawn Lake Trail Variant 68",
+        "park": "Rocky Mountain National Park",
+        "state": "Colorado",
+        "difficulty": "Hard",
+        "distance_miles": 13.1,
+        "elevation_gain_feet": 2575,
+        "trailhead": "Lawn Lake Trailhead",
+        "notes": "Long forested hike to a high-elevation lake. Alternate route."
+    },
+    {
+        "name": "Green Mountain Trail Variant 69",
+        "park": "Rocky Mountain National Park",
+        "state": "Colorado",
+        "difficulty": "Hard",
+        "distance_miles": 9.8,
+        "elevation_gain_feet": 2650,
+        "trailhead": "Green Mountain Trailhead",
+        "notes": "Less crowded climb with expansive summit views. Alternate route."
+    },
+    {
+        "name": "Bear Lake Loop Variant 70",
+        "park": "Rocky Mountain National Park",
+        "state": "Colorado",
+        "difficulty": "Easy",
+        "distance_miles": 0.8,
+        "elevation_gain_feet": 45,
+        "trailhead": "Bear Lake Trailhead",
+        "notes": "Popular lakeside loop with mountain views. Alternate route."
+    },
+    {
+        "name": "Emerald Lake Trail Variant 71",
+        "park": "Rocky Mountain National Park",
+        "state": "Colorado",
+        "difficulty": "Moderate",
+        "distance_miles": 3.5,
+        "elevation_gain_feet": 723,
+        "trailhead": "Bear Lake Trailhead",
+        "notes": "Passes Nymph and Dream lakes en route to Emerald Lake. Alternate route."
+    },
+    {
+        "name": "Sky Pond via Glacier Gorge Variant 72",
+        "park": "Rocky Mountain National Park",
+        "state": "Colorado",
+        "difficulty": "Hard",
+        "distance_miles": 9.4,
+        "elevation_gain_feet": 1830,
+        "trailhead": "Glacier Gorge Trailhead",
+        "notes": "Includes Alberta Falls and Lake of Glass before Sky Pond. Alternate route."
+    },
+    {
+        "name": "Chasm Lake Trail Variant 73",
+        "park": "Rocky Mountain National Park",
+        "state": "Colorado",
+        "difficulty": "Hard",
+        "distance_miles": 8.9,
+        "elevation_gain_feet": 2625,
+        "trailhead": "Longs Peak Trailhead",
+        "notes": "High-alpine lake beneath Longs Peak's east face. Alternate route."
+    },
+    {
+        "name": "Ouzel Falls Trail Variant 74",
+        "park": "Rocky Mountain National Park",
+        "state": "Colorado",
+        "difficulty": "Moderate",
+        "distance_miles": 6.0,
+        "elevation_gain_feet": 970,
+        "trailhead": "Wild Basin Trailhead",
+        "notes": "Scenic creekside route with multiple cascades. Alternate route."
+    },
+    {
+        "name": "Nymph Lake Trail Variant 75",
+        "park": "Rocky Mountain National Park",
+        "state": "Colorado",
+        "difficulty": "Easy",
+        "distance_miles": 1.2,
+        "elevation_gain_feet": 355,
+        "trailhead": "Bear Lake Trailhead",
+        "notes": "Short hike to a lily-pad lake with reflective views. Alternate route."
+    },
+    {
+        "name": "Dream Lake Trail Variant 76",
+        "park": "Rocky Mountain National Park",
+        "state": "Colorado",
+        "difficulty": "Moderate",
+        "distance_miles": 2.3,
+        "elevation_gain_feet": 600,
+        "trailhead": "Bear Lake Trailhead",
+        "notes": "Classic alpine lake framed by Hallett Peak. Alternate route."
+    },
+    {
+        "name": "Alberta Falls Trail Variant 77",
+        "park": "Rocky Mountain National Park",
+        "state": "Colorado",
+        "difficulty": "Moderate",
+        "distance_miles": 2.0,
+        "elevation_gain_feet": 200,
+        "trailhead": "Glacier Gorge Trailhead",
+        "notes": "Fast access to a powerful waterfall and granite gorge. Alternate route."
+    }
+]
